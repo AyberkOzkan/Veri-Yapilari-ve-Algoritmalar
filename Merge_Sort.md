@@ -17,7 +17,9 @@
 - Big-O gösterimini yazınız.
 
 
-## Aşamalar:
+## **Aşamalar:**
+
+<center>
 
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |- |- |- |- |- |- |- |- |- |- |- |- |
@@ -38,6 +40,16 @@
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |8 |11|12|16|21|22|  |  |  |
 
+</center>
+
 <br/>
 
 ---
+
+## **Big-O Gösterimi:**
+
+    O(n*(logn)) 
+    
+    n = 6 (6 defa böldük)
+
+    O(6*(log6))
